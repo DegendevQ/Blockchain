@@ -1,13 +1,13 @@
 
 # Blockchain
 
-Auto-create wallets using Blockchain.info API with PHP
+Auto-create wallets using Blockchain.info API and mix them using a local server
 
 ---
 
 ## Overview
 
-This project provides a simple PHP script to automatically create Bitcoin wallets in bulk using the Blockchain.info Wallet API. It demonstrates how to interact with the Blockchain.info service to programmatically generate wallet addresses and manage them.
+This project provides a simple PHP script to automatically create Bitcoin wallets and mix them using a local server (also using blockchain.com for creation).
 
 ---
 
